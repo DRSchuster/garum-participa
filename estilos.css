@@ -2,86 +2,144 @@
   color: #1c1a17;
   background: #f4f1ea;
   font-family: "Segoe UI", Helvetica, Arial, sans-serif;
-  line-height: 1.45;
+  font-size: 20px;
+  line-height: 1.35;
 }
 
 body {
   margin: 0;
-  padding: 1.25rem;
+  padding: 0.8rem;
 }
 
 main {
-  max-width: 38rem;
+  max-width: 36rem;
   margin: 0 auto;
   background: #fff;
-  padding: 1.25rem 1.25rem 2rem;
+  padding: 1rem 1rem 1.4rem;
   border: 1px solid #e2dcd0;
 }
 
 h1 {
-  font-size: 1.6rem;
-  margin: 0.2rem 0;
+  font-size: 1.8rem;
+  margin: 0.2rem 0 0;
 }
 
-.marca, .proyecto, .aviso {
+h2 {
+  font-size: 1.15rem;
+  margin: 1rem 0 0.3rem;
+}
+
+.sitio {
+  font-size: 1.35rem;
+  margin: 0.15rem 0;
+}
+
+.proyecto, .pie {
   color: #5c564c;
-  margin: 0.2rem 0;
+  margin: 0.15rem 0 0.6rem;
 }
 
-.idiomas {
+.idiomas, .pestanas {
   display: flex;
-  gap: 0.5rem;
-  margin: 1rem 0;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0.8rem;
 }
 
-button, .archivo {
+button, .grande {
   font: inherit;
   background: #1c1a17;
   color: #fff;
   border: 0;
-  padding: 0.75rem 1rem;
   cursor: pointer;
 }
 
-.idiomas button {
+.grande {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  min-height: 3.4rem;
+  padding: 0.9rem 1rem;
+  margin: 0.5rem 0;
+}
+
+.idiomas button, .pestanas button, button.enlace {
+  background: #fff;
+  color: #1c1a17;
+  border: 1px solid #1c1a17;
+  padding: 0.45rem 0.7rem;
+}
+
+.pestanas button.activo, .idiomas button.activo {
+  background: #1c1a17;
+  color: #fff;
+}
+
+button.enlace {
+  background: transparent;
+  border: 0;
+  color: #1c1a17;
+  text-decoration: underline;
+  padding: 0.2rem 0 0.6rem;
+  min-height: 2.4rem;
+}
+
+label.casilla {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+  margin: 0.6rem 0;
+  font-size: 1rem;
+}
+
+#miniaturas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.4rem 0 0.8rem;
+}
+
+.mini {
+  width: 5.6rem;
+}
+
+.mini img, .mini .hueco {
+  width: 5.6rem;
+  height: 5.6rem;
+  object-fit: cover;
+  background: #f4f1ea;
+  display: block;
+}
+
+.mini button {
+  width: 100%;
+  min-height: 2.2rem;
+  margin-top: 0.2rem;
   background: #fff;
   color: #1c1a17;
   border: 1px solid #1c1a17;
 }
 
-.idiomas button.activo {
+#progreso {
+  height: 0.7rem;
+  background: #e2dcd0;
+  margin: 0.4rem 0 0.8rem;
+}
+
+#avance {
+  display: block;
+  height: 100%;
+  width: 0;
   background: #1c1a17;
-  color: #fff;
-}
-
-label.casilla {
-  display: flex;
-  gap: 0.6rem;
-  align-items: flex-start;
-  margin: 1rem 0;
-}
-
-h2 {
-  font-size: 1rem;
-  margin: 1.2rem 0 0.3rem;
-}
-
-p {
-  margin: 0.3rem 0 0.8rem;
-}
-
-.aviso {
-  font-size: 0.9rem;
 }
 
 #estado {
-  min-height: 1.2rem;
+  min-height: 1.4rem;
   font-weight: 600;
 }
 
-.archivo {
-  display: inline-block;
-  margin: 0.5rem 0 1rem;
+p {
+  margin: 0.3rem 0 0.7rem;
 }
 
 input[type="file"] {
@@ -92,7 +150,7 @@ input[type="file"] {
   clip: rect(0 0 0 0);
 }
 
-button[disabled] {
+button[disabled], .grande[disabled] {
   opacity: 0.45;
   cursor: default;
 }
@@ -105,6 +163,10 @@ textarea, label[for="nota"] {
 
 textarea {
   font: inherit;
-  margin: 0.4rem 0 1rem;
+  margin: 0.3rem 0 0.6rem;
   padding: 0.5rem;
+}
+
+#panel-ayuda p {
+  white-space: pre-line;
 }

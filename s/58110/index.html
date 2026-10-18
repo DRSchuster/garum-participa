@@ -20,36 +20,49 @@
 </head>
 <body>
   <main>
-    <p class="marca">Be Selkie · GARUM</p>
-    <p class="aviso" id="aviso"></p>
-    <h1 id="nombre">GARUM</h1>
-    <p class="proyecto" id="proyecto"></p>
     <div class="idiomas">
       <button type="button" data-lang="pt">PT</button>
       <button type="button" data-lang="en">EN</button>
       <button type="button" data-lang="es">ES</button>
     </div>
-    <p id="instrucciones"></p>
-    <h2 id="tit-seg"></h2>
-    <p id="seguridad"></p>
-    <p id="enviar"></p>
-    <form id="formulario" action="#" onsubmit="return false;">
-      <input id="foto" type="file" accept="image/jpeg,image/png,image/heic,image/heif,image/webp">
-      <label class="archivo" id="elegir" for="foto"></label>
-      <label id="etiqueta-nota" for="nota"></label>
-      <textarea id="nota" maxlength="500" rows="3"></textarea>
-      <h2> </h2>
+    <h1>GARUM</h1>
+    <p class="sitio" id="nombre"></p>
+    <p class="proyecto" id="proyecto"></p>
+    <div class="pestanas">
+      <button type="button" id="tab-enviar" class="activo"></button>
+      <button type="button" id="tab-ayuda"></button>
+    </div>
+    <section id="panel-enviar">
+      <form id="formulario" action="#" onsubmit="return false;">
+        <input id="foto" type="file" accept="image/jpeg,image/png,image/heic,image/heif,image/webp,image/tiff,.dng,.jpg,.jpeg,.png,.heic,.heif,.webp,.tif,.tiff" multiple>
+        <label class="grande" id="elegir" for="foto"></label>
+        <div id="miniaturas"></div>
+        <label id="etiqueta-nota" for="nota"></label>
+        <textarea id="nota" maxlength="500" rows="2"></textarea>
+        <label class="casilla">
+          <input id="casilla" type="checkbox">
+          <span id="casilla-texto"></span>
+        </label>
+        <button type="button" id="mas" class="enlace"></button>
+        <button id="mandar" class="grande" type="button"></button>
+        <div id="progreso" hidden><span id="avance"></span></div>
+      </form>
+    </section>
+    <section id="panel-ayuda" hidden>
+      <h2 id="tit-foto"></h2>
+      <p id="instrucciones"></p>
+      <h2 id="tit-seg"></h2>
+      <p id="seguridad"></p>
+      <h2 id="tit-lic"></h2>
       <p id="licencia"></p>
+      <h2 id="tit-datos"></h2>
       <p id="rgpd"></p>
-      <label class="casilla">
-        <input id="casilla" type="checkbox">
-        <span id="casilla-texto"></span>
-      </label>
-      <button id="mandar" type="button"></button>
-    </form>
+    </section>
     <p id="estado"></p>
+    <p class="pie" id="pie"></p>
   </main>
   <script src="config.js"></script>
+  <script src="exif.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
