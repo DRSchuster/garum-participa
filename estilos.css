@@ -1,0 +1,110 @@
+:root {
+  color: #1c1a17;
+  background: #f4f1ea;
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+}
+
+body {
+  margin: 0;
+  padding: 1.25rem;
+}
+
+main {
+  max-width: 38rem;
+  margin: 0 auto;
+  background: #fff;
+  padding: 1.25rem 1.25rem 2rem;
+  border: 1px solid #e2dcd0;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin: 0.2rem 0;
+}
+
+.marca, .proyecto, .aviso {
+  color: #5c564c;
+  margin: 0.2rem 0;
+}
+
+.idiomas {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+button, .archivo {
+  font: inherit;
+  background: #1c1a17;
+  color: #fff;
+  border: 0;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+}
+
+.idiomas button {
+  background: #fff;
+  color: #1c1a17;
+  border: 1px solid #1c1a17;
+}
+
+.idiomas button.activo {
+  background: #1c1a17;
+  color: #fff;
+}
+
+label.casilla {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 1rem;
+  margin: 1.2rem 0 0.3rem;
+}
+
+p {
+  margin: 0.3rem 0 0.8rem;
+}
+
+.aviso {
+  font-size: 0.9rem;
+}
+
+#estado {
+  min-height: 1.2rem;
+  font-weight: 600;
+}
+
+.archivo {
+  display: inline-block;
+  margin: 0.5rem 0 1rem;
+}
+
+input[type="file"] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+button[disabled] {
+  opacity: 0.45;
+  cursor: default;
+}
+
+textarea, label[for="nota"] {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+textarea {
+  font: inherit;
+  margin: 0.4rem 0 1rem;
+  padding: 0.5rem;
+}

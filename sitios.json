@@ -1,0 +1,882 @@
+{
+  "157696": {
+    "nombre": "Tartomil",
+    "proyecto": "Coastline F2"
+  },
+  "163042": {
+    "nombre": "Porto - Avenida Marginal do Parque da Cidade",
+    "proyecto": "Coastline F2"
+  },
+  "2186232": {
+    "nombre": "Atalaia de Milfontes",
+    "proyecto": "Coastline F2"
+  },
+  "2186234": {
+    "nombre": "Atalaia do Porto das Barcas",
+    "proyecto": "Coastline F2"
+  },
+  "2186240": {
+    "nombre": "Lapa de Santa Margarida",
+    "proyecto": "Coastline F2"
+  },
+  "2187884": {
+    "nombre": "Praia do Norte",
+    "proyecto": "Coastline F2"
+  },
+  "2187885": {
+    "nombre": "Pedras do Inferno",
+    "proyecto": "Coastline F2"
+  },
+  "2187887": {
+    "nombre": "Praia dos Lagosteiros",
+    "proyecto": "Coastline F2"
+  },
+  "2187888": {
+    "nombre": "Boca do Chapim",
+    "proyecto": "Coastline F2"
+  },
+  "2187889": {
+    "nombre": "Assafora",
+    "proyecto": "Coastline F2"
+  },
+  "2247113": {
+    "nombre": "Adraga",
+    "proyecto": "Coastline F2"
+  },
+  "2247121": {
+    "nombre": "Vinhas da Funcheira",
+    "proyecto": "Coastline F2"
+  },
+  "2247134": {
+    "nombre": "Alto da Vigia/ Santuário do Sol, Lua e Culto Imperial",
+    "proyecto": "Coastline F2"
+  },
+  "2247167": {
+    "nombre": "Mazanária",
+    "proyecto": "Coastline F2"
+  },
+  "2247247": {
+    "nombre": "Praia da Aguda",
+    "proyecto": "Coastline F2"
+  },
+  "2247257": {
+    "nombre": "Jazidas do Magoito",
+    "proyecto": "Coastline F2"
+  },
+  "2247270": {
+    "nombre": "Praia do Magoito",
+    "proyecto": "Coastline F2"
+  },
+  "2273196": {
+    "nombre": "Praia do Pedrógão",
+    "proyecto": "Coastline F2"
+  },
+  "2325497": {
+    "nombre": "Praia Nova do Pedrógão 1",
+    "proyecto": "Coastline F2"
+  },
+  "2325499": {
+    "nombre": "Praia Nova do Pedrógão 2",
+    "proyecto": "Coastline F2"
+  },
+  "2394313": {
+    "nombre": "Serra da Cela (Portinho da Arrábida)",
+    "proyecto": "Coastline F2"
+  },
+  "2410849": {
+    "nombre": "Lapa Janela 1",
+    "proyecto": "Coastline F2"
+  },
+  "2548324": {
+    "nombre": "Praia do Ribeiro de Peralta",
+    "proyecto": "Coastline F2"
+  },
+  "2664546": {
+    "nombre": "Praia dos Coelhos/Portinho da Arrábida",
+    "proyecto": "Coastline F2"
+  },
+  "2716992": {
+    "nombre": "Mocho",
+    "proyecto": "Coastline F2"
+  },
+  "2792368": {
+    "nombre": "Azenha de Santa Cruz",
+    "proyecto": "Coastline F2"
+  },
+  "2938443": {
+    "nombre": "Praia do Rei Cortiço",
+    "proyecto": "Coastline F2"
+  },
+  "2938445": {
+    "nombre": "Mira Nascente",
+    "proyecto": "Coastline F2"
+  },
+  "2940203": {
+    "nombre": "Sesimbra - Muralha",
+    "proyecto": "Coastline F2"
+  },
+  "2940757": {
+    "nombre": "Sesimbra - Rua da Fortaleza",
+    "proyecto": "Coastline F2"
+  },
+  "2965333": {
+    "nombre": "Fortaleza de Peniche",
+    "proyecto": "Coastline F2"
+  },
+  "2983891": {
+    "nombre": "Praia da Foz",
+    "proyecto": "Coastline F2"
+  },
+  "2996610": {
+    "nombre": "Praia da Agudela",
+    "proyecto": "Coastline F2"
+  },
+  "3005156": {
+    "nombre": "Ponta de Mangues",
+    "proyecto": "Coastline F2"
+  },
+  "3005176": {
+    "nombre": "Falca I",
+    "proyecto": "Coastline F2"
+  },
+  "3005195": {
+    "nombre": "Vale Fundo I",
+    "proyecto": "Coastline F2"
+  },
+  "3005206": {
+    "nombre": "Praia do Norte I",
+    "proyecto": "Coastline F2"
+  },
+  "3005214": {
+    "nombre": "Praia do Norte II",
+    "proyecto": "Coastline F2"
+  },
+  "3005223": {
+    "nombre": "Vale do Pardo I",
+    "proyecto": "Coastline F2"
+  },
+  "3018593": {
+    "nombre": "Sines - Rua Teófilo Braga",
+    "proyecto": "Coastline F2"
+  },
+  "3020858": {
+    "nombre": "Praia da Aguda",
+    "proyecto": "Coastline F2"
+  },
+  "3029089": {
+    "nombre": "Convento do Bom Jesus de Peniche",
+    "proyecto": "Coastline F2"
+  },
+  "3070059": {
+    "nombre": "Ribeira dos Caixeiros",
+    "proyecto": "Coastline F2"
+  },
+  "3070118": {
+    "nombre": "Ribeira da Fonte Nova",
+    "proyecto": "Coastline F2"
+  },
+  "3070359": {
+    "nombre": "Barraca do Papo-Seco",
+    "proyecto": "Coastline F2"
+  },
+  "3070366": {
+    "nombre": "Areias do Mastro I",
+    "proyecto": "Coastline F2"
+  },
+  "3073254": {
+    "nombre": "Sines - Rua Miguel Bombarda",
+    "proyecto": "Coastline F2"
+  },
+  "3088770": {
+    "nombre": "Chã da Anixa",
+    "proyecto": "Coastline F2"
+  },
+  "3090603": {
+    "nombre": "Porto da Baleeira",
+    "proyecto": "Coastline F2"
+  },
+  "3093252": {
+    "nombre": "Sesimbra - Fortaleza de Santiago",
+    "proyecto": "Coastline F2"
+  },
+  "3093754": {
+    "nombre": "Samouqueira II",
+    "proyecto": "Coastline F2"
+  },
+  "3093879": {
+    "nombre": "Monte das Pousadas Novas 4",
+    "proyecto": "Coastline F2"
+  },
+  "3104688": {
+    "nombre": "Sines - Largo Poeta Bocage/Necrópole da Igreja de São Salvador",
+    "proyecto": "Coastline F2"
+  },
+  "3110030": {
+    "nombre": "Vale de Campanas",
+    "proyecto": "Coastline F2"
+  },
+  "3110034": {
+    "nombre": "Barraca da Adega",
+    "proyecto": "Coastline F2"
+  },
+  "3110040": {
+    "nombre": "Frincha Grande",
+    "proyecto": "Coastline F2"
+  },
+  "3110044": {
+    "nombre": "Casal dos Covões",
+    "proyecto": "Coastline F2"
+  },
+  "3126684": {
+    "nombre": "Aguncheiras 1",
+    "proyecto": "Coastline F2"
+  },
+  "3135192": {
+    "nombre": "Olhos de Água",
+    "proyecto": "Coastline F2"
+  },
+  "3141717": {
+    "nombre": "Rocha do Gronho",
+    "proyecto": "Coastline F2"
+  },
+  "3228889": {
+    "nombre": "Capela de Santo Estevão",
+    "proyecto": "Coastline F2"
+  },
+  "3228904": {
+    "nombre": "Fortim do Baleal",
+    "proyecto": "Coastline F2"
+  },
+  "3317360": {
+    "nombre": "Forte de Santa Catarina",
+    "proyecto": "Coastline F2"
+  },
+  "3350619": {
+    "nombre": "Forte da Praia da Consolação - Peniche",
+    "proyecto": "Coastline F2"
+  },
+  "3382244": {
+    "nombre": "Concheiro do Lisandro",
+    "proyecto": "Coastline F2"
+  },
+  "3521135": {
+    "nombre": "Bateria do Cabo Carvoeiro",
+    "proyecto": "Coastline F2"
+  },
+  "3521199": {
+    "nombre": "Bateria do Forte da Nª Srª. da Luz",
+    "proyecto": "Coastline F2"
+  },
+  "3521289": {
+    "nombre": "Bateria 1 do Porto da Areia Norte",
+    "proyecto": "Coastline F2"
+  },
+  "3521338": {
+    "nombre": "Bateria 2 do Porto da Areia Norte",
+    "proyecto": "Coastline F2"
+  },
+  "3521363": {
+    "nombre": "Bateria 3 do Porto da Areia Norte",
+    "proyecto": "Coastline F2"
+  },
+  "3523089": {
+    "nombre": "Ermida do Convento de Bom Jesus",
+    "proyecto": "Coastline F2"
+  },
+  "3523123": {
+    "nombre": "Forte da Nª. Srª. da Luz",
+    "proyecto": "Coastline F2"
+  },
+  "3523133": {
+    "nombre": "Linha dos Moinhos / Entrincheiramento de São Miguel",
+    "proyecto": "Coastline F2"
+  },
+  "3523268": {
+    "nombre": "Praia da Almagreira",
+    "proyecto": "Coastline F2"
+  },
+  "3525373": {
+    "nombre": "Fortim do Baleal 1",
+    "proyecto": "Coastline F2"
+  },
+  "3529291": {
+    "nombre": "Capela de Santa Ana / Capela de Santa Anna",
+    "proyecto": "Coastline F2"
+  },
+  "3572849": {
+    "nombre": "O Poço",
+    "proyecto": "Coastline F2"
+  },
+  "3572874": {
+    "nombre": "Rua de Baixo",
+    "proyecto": "Coastline F2"
+  },
+  "3572884": {
+    "nombre": "Rua do Rio Calvo",
+    "proyecto": "Coastline F2"
+  },
+  "3578183": {
+    "nombre": "Reduto da Foz do Sizandro",
+    "proyecto": "Coastline F2"
+  },
+  "3588744": {
+    "nombre": "Praia de Porto Covinho",
+    "proyecto": "Coastline F2"
+  },
+  "3588759": {
+    "nombre": "Samouqueira III",
+    "proyecto": "Coastline F2"
+  },
+  "3589298": {
+    "nombre": "Sines - Largo João de Deus",
+    "proyecto": "Coastline F2"
+  },
+  "3589315": {
+    "nombre": "Sines - Rua Ramos da Costa",
+    "proyecto": "Coastline F2"
+  },
+  "3630153": {
+    "nombre": "Forte de Nossa Senhora dos Anjos de Paimogo",
+    "proyecto": "Coastline F2"
+  },
+  "47546": {
+    "nombre": "Vila Praia de Âncora",
+    "proyecto": "Coastline F2"
+  },
+  "47640": {
+    "nombre": "Porto Novo 1",
+    "proyecto": "Coastline F2"
+  },
+  "47745": {
+    "nombre": "Palheirões do Alegra",
+    "proyecto": "Coastline F2"
+  },
+  "48177": {
+    "nombre": "Espigão das Ruivas",
+    "proyecto": "Coastline F2"
+  },
+  "48202": {
+    "nombre": "Boca dos Bobaleiros",
+    "proyecto": "Coastline F2"
+  },
+  "48238": {
+    "nombre": "Grutas do Forte do Cavalo",
+    "proyecto": "Coastline F2"
+  },
+  "48264": {
+    "nombre": "Forte do Cavalo",
+    "proyecto": "Coastline F2"
+  },
+  "48267": {
+    "nombre": "Lagoa de Albufeira",
+    "proyecto": "Coastline F2"
+  },
+  "48295": {
+    "nombre": "Ponta de Cortes",
+    "proyecto": "Coastline F2"
+  },
+  "48490": {
+    "nombre": "Pataias",
+    "proyecto": "Coastline F2"
+  },
+  "48494": {
+    "nombre": "Cambezes",
+    "proyecto": "Coastline F2"
+  },
+  "49316": {
+    "nombre": "São Paio",
+    "proyecto": "Coastline F2"
+  },
+  "49373": {
+    "nombre": "Ponta da Rana",
+    "proyecto": "Coastline F2"
+  },
+  "49442": {
+    "nombre": "São Pedro do Estoril (Grutas de)",
+    "proyecto": "Coastline F2"
+  },
+  "49672": {
+    "nombre": "Pedrantes",
+    "proyecto": "Coastline F2"
+  },
+  "49747": {
+    "nombre": "Samarra",
+    "proyecto": "Coastline F2"
+  },
+  "49769": {
+    "nombre": "Foz da Ribeira de Morgavel",
+    "proyecto": "Coastline F2"
+  },
+  "49920": {
+    "nombre": "Caniceira",
+    "proyecto": "Coastline F2"
+  },
+  "49921": {
+    "nombre": "Burrinho",
+    "proyecto": "Coastline F2"
+  },
+  "49922": {
+    "nombre": "Forte do Pessegueiro",
+    "proyecto": "Coastline F2"
+  },
+  "50059": {
+    "nombre": "Vale Vistoso",
+    "proyecto": "Coastline F2"
+  },
+  "50071": {
+    "nombre": "Forte de Mil Regos, de Milreu ou de São Pedro",
+    "proyecto": "Coastline F2"
+  },
+  "50278": {
+    "nombre": "Praia de São Julião",
+    "proyecto": "Coastline F2"
+  },
+  "50301": {
+    "nombre": "Porto Covo",
+    "proyecto": "Coastline F2"
+  },
+  "50378": {
+    "nombre": "Comenda",
+    "proyecto": "Coastline F2"
+  },
+  "50474": {
+    "nombre": "Prainha",
+    "proyecto": "Coastline F2"
+  },
+  "50496": {
+    "nombre": "Península da Papoa",
+    "proyecto": "Coastline F2"
+  },
+  "50510": {
+    "nombre": "Península do Baleal",
+    "proyecto": "Coastline F2"
+  },
+  "50513": {
+    "nombre": "Vale de Janelas",
+    "proyecto": "Coastline F2"
+  },
+  "50529": {
+    "nombre": "Pedras Muitas",
+    "proyecto": "Coastline F2"
+  },
+  "50609": {
+    "nombre": "Aivados 1",
+    "proyecto": "Coastline F2"
+  },
+  "50650": {
+    "nombre": "Pedras Negras / Laje Erguida",
+    "proyecto": "Coastline F2"
+  },
+  "50854": {
+    "nombre": "Praia de Santa Cruz / Ermida de São Julião (Santa Helena)",
+    "proyecto": "Coastline F2"
+  },
+  "50885": {
+    "nombre": "Praia de Carcavelos",
+    "proyecto": "Coastline F2"
+  },
+  "50903": {
+    "nombre": "Vila Menendis",
+    "proyecto": "Coastline F2"
+  },
+  "50927": {
+    "nombre": "Praia de Galápos",
+    "proyecto": "Coastline F2"
+  },
+  "50928": {
+    "nombre": "Setúbal - Outão",
+    "proyecto": "Coastline F2"
+  },
+  "51035": {
+    "nombre": "Rasca",
+    "proyecto": "Coastline F2"
+  },
+  "51132": {
+    "nombre": "Praia da Ervilha",
+    "proyecto": "Coastline F2"
+  },
+  "51147": {
+    "nombre": "Azenhas do Mar",
+    "proyecto": "Coastline F2"
+  },
+  "51333": {
+    "nombre": "Forte do Guincho",
+    "proyecto": "Coastline F2"
+  },
+  "51492": {
+    "nombre": "Pedra de Dom Rodrigo",
+    "proyecto": "Coastline F2"
+  },
+  "51493": {
+    "nombre": "Angra da Barrela",
+    "proyecto": "Coastline F2"
+  },
+  "51522": {
+    "nombre": "Ponte do Calhau",
+    "proyecto": "Coastline F2"
+  },
+  "51599": {
+    "nombre": "Ponta do Espigão - Fronteira",
+    "proyecto": "Coastline F2"
+  },
+  "51602": {
+    "nombre": "Pedra dos Corvos",
+    "proyecto": "Coastline F2"
+  },
+  "51603": {
+    "nombre": "Enseada do Laredo do Barco",
+    "proyecto": "Coastline F2"
+  },
+  "51798": {
+    "nombre": "Ponta da Vigia",
+    "proyecto": "Coastline F2"
+  },
+  "51801": {
+    "nombre": "Água do Seixo",
+    "proyecto": "Coastline F2"
+  },
+  "51829": {
+    "nombre": "Porto Escada",
+    "proyecto": "Coastline F2"
+  },
+  "51869": {
+    "nombre": "Ponta do Chibarreiro",
+    "proyecto": "Coastline F2"
+  },
+  "51983": {
+    "nombre": "Praia das Galés 1 / Naus",
+    "proyecto": "Coastline F2"
+  },
+  "52243": {
+    "nombre": "Porto de Areia Norte (\"San Pedro de Alcantara\")",
+    "proyecto": "Coastline F2"
+  },
+  "52679": {
+    "nombre": "Abano",
+    "proyecto": "Coastline F2"
+  },
+  "52680": {
+    "nombre": "Guincho Norte",
+    "proyecto": "Coastline F2"
+  },
+  "52699": {
+    "nombre": "Guincho",
+    "proyecto": "Coastline F2"
+  },
+  "53240": {
+    "nombre": "Magoito",
+    "proyecto": "Coastline F2"
+  },
+  "53391": {
+    "nombre": "Pedra do Patacho",
+    "proyecto": "Coastline F2"
+  },
+  "53467": {
+    "nombre": "Cabo de Sines",
+    "proyecto": "Coastline F2"
+  },
+  "53600": {
+    "nombre": "Valmitão",
+    "proyecto": "Coastline F2"
+  },
+  "53617": {
+    "nombre": "Praia de Vale Figueira",
+    "proyecto": "Coastline F2"
+  },
+  "53618": {
+    "nombre": "Praia da Foz 1",
+    "proyecto": "Coastline F2"
+  },
+  "53742": {
+    "nombre": "Medo Tojeiro",
+    "proyecto": "Coastline F2"
+  },
+  "53829": {
+    "nombre": "Concheiro de São Julião",
+    "proyecto": "Coastline F2"
+  },
+  "53858": {
+    "nombre": "Samouqueira I",
+    "proyecto": "Coastline F2"
+  },
+  "54013": {
+    "nombre": "Baía da Nau",
+    "proyecto": "Coastline F2"
+  },
+  "54030": {
+    "nombre": "Altura do Norte - Malhão",
+    "proyecto": "Coastline F2"
+  },
+  "54054": {
+    "nombre": "Ponta da Carraca",
+    "proyecto": "Coastline F2"
+  },
+  "54126": {
+    "nombre": "Cabo Carvoeiro",
+    "proyecto": "Coastline F2"
+  },
+  "54128": {
+    "nombre": "Porto da Areia",
+    "proyecto": "Coastline F2"
+  },
+  "54142": {
+    "nombre": "Porto do Sardão",
+    "proyecto": "Coastline F2"
+  },
+  "54157": {
+    "nombre": "Castelo do Cavaleiro",
+    "proyecto": "Coastline F2"
+  },
+  "54159": {
+    "nombre": "Angra da Vaca",
+    "proyecto": "Coastline F2"
+  },
+  "54179": {
+    "nombre": "Castelo Velho",
+    "proyecto": "Coastline F2"
+  },
+  "54181": {
+    "nombre": "Cabeça Gorda",
+    "proyecto": "Coastline F2"
+  },
+  "54190": {
+    "nombre": "Aivados 2",
+    "proyecto": "Coastline F2"
+  },
+  "54192": {
+    "nombre": "Praia do Malhão / Cruzes",
+    "proyecto": "Coastline F2"
+  },
+  "54198": {
+    "nombre": "Malhada do Velho 1",
+    "proyecto": "Coastline F2"
+  },
+  "54206": {
+    "nombre": "Nascedios",
+    "proyecto": "Coastline F2"
+  },
+  "54207": {
+    "nombre": "Praia das Galés 2",
+    "proyecto": "Coastline F2"
+  },
+  "54208": {
+    "nombre": "Palheirão Furado 2",
+    "proyecto": "Coastline F2"
+  },
+  "54216": {
+    "nombre": "Palheirão Furado 1",
+    "proyecto": "Coastline F2"
+  },
+  "54217": {
+    "nombre": "Pedra do Soldado",
+    "proyecto": "Coastline F2"
+  },
+  "54218": {
+    "nombre": "Foz do Mira",
+    "proyecto": "Coastline F2"
+  },
+  "54225": {
+    "nombre": "Angra entre a Pedra da Atalaia e a Pedra de D. Rodrigo",
+    "proyecto": "Coastline F2"
+  },
+  "54235": {
+    "nombre": "Asseisseira / Seisseira",
+    "proyecto": "Coastline F2"
+  },
+  "54236": {
+    "nombre": "Brejo da Moita 1",
+    "proyecto": "Coastline F2"
+  },
+  "54241": {
+    "nombre": "Brejo do Cagarrão",
+    "proyecto": "Coastline F2"
+  },
+  "54242": {
+    "nombre": "Barra Grande / Lapa das Pombas",
+    "proyecto": "Coastline F2"
+  },
+  "54243": {
+    "nombre": "Pegada do Boi",
+    "proyecto": "Coastline F2"
+  },
+  "54262": {
+    "nombre": "Enseada da Santoleira",
+    "proyecto": "Coastline F2"
+  },
+  "54274": {
+    "nombre": "Ponta do Carreiro Manso / Angra das Melancias",
+    "proyecto": "Coastline F2"
+  },
+  "54275": {
+    "nombre": "Carriços",
+    "proyecto": "Coastline F2"
+  },
+  "54276": {
+    "nombre": "Ponta da Perceveira",
+    "proyecto": "Coastline F2"
+  },
+  "54291": {
+    "nombre": "Praia do Tonel",
+    "proyecto": "Coastline F2"
+  },
+  "54292": {
+    "nombre": "Assenha",
+    "proyecto": "Coastline F2"
+  },
+  "54293": {
+    "nombre": "Palheirões da Regueira",
+    "proyecto": "Coastline F2"
+  },
+  "54320": {
+    "nombre": "Carreiros da Fonte - Praia de Nossa Senhora",
+    "proyecto": "Coastline F2"
+  },
+  "54321": {
+    "nombre": "Praia do Carvalhal",
+    "proyecto": "Coastline F2"
+  },
+  "54400": {
+    "nombre": "Baío / Baío 1",
+    "proyecto": "Coastline F2"
+  },
+  "54435": {
+    "nombre": "Chã dos Navegantes",
+    "proyecto": "Coastline F2"
+  },
+  "54437": {
+    "nombre": "Fonte da Pipa",
+    "proyecto": "Coastline F2"
+  },
+  "54446": {
+    "nombre": "Cascais - Rua Marques Leal Pancada",
+    "proyecto": "Coastline F2"
+  },
+  "54447": {
+    "nombre": "Boca do Inferno",
+    "proyecto": "Coastline F2"
+  },
+  "54448": {
+    "nombre": "Cidadela de Cascais/ Fortaleza de Nossa Senhora da Luz",
+    "proyecto": "Coastline F2"
+  },
+  "54450": {
+    "nombre": "Forte da Baralha",
+    "proyecto": "Coastline F2"
+  },
+  "54459": {
+    "nombre": "Praia da Ribeira",
+    "proyecto": "Coastline F2"
+  },
+  "54461": {
+    "nombre": "Furninha",
+    "proyecto": "Coastline F2"
+  },
+  "54463": {
+    "nombre": "Areia do Mastro",
+    "proyecto": "Coastline F2"
+  },
+  "54473": {
+    "nombre": "Oitavos (Forte de S. José)",
+    "proyecto": "Coastline F2"
+  },
+  "54474": {
+    "nombre": "Cabo Raso",
+    "proyecto": "Coastline F2"
+  },
+  "54666": {
+    "nombre": "Ponta da Galhofa",
+    "proyecto": "Coastline F2"
+  },
+  "54667": {
+    "nombre": "Bufardas / Fonte do Calhau",
+    "proyecto": "Coastline F2"
+  },
+  "54668": {
+    "nombre": "Medo Comprido",
+    "proyecto": "Coastline F2"
+  },
+  "54678": {
+    "nombre": "Porto das Barcas",
+    "proyecto": "Coastline F2"
+  },
+  "54977": {
+    "nombre": "Capela de Nossa Senhora das Salvas",
+    "proyecto": "Coastline F2"
+  },
+  "55838": {
+    "nombre": "Monumento de S. Torpes",
+    "proyecto": "Coastline F2"
+  },
+  "56014": {
+    "nombre": "Castelo de Sines",
+    "proyecto": "Coastline F2"
+  },
+  "56104": {
+    "nombre": "Porto - Castelo de São João da Foz do Douro",
+    "proyecto": "Coastline F2"
+  },
+  "56171": {
+    "nombre": "Angeiras/ Angeiras I",
+    "proyecto": "Coastline F2"
+  },
+  "56441": {
+    "nombre": "Ilha do Pessegueiro",
+    "proyecto": "Coastline F2"
+  },
+  "57057": {
+    "nombre": "Forte do Cão",
+    "proyecto": "Coastline F2"
+  },
+  "57103": {
+    "nombre": "Foz da Fonte",
+    "proyecto": "Coastline F2"
+  },
+  "57138": {
+    "nombre": "Promontório do Morro",
+    "proyecto": "Coastline F2"
+  },
+  "57150": {
+    "nombre": "Tranca/Rechã da Tranca",
+    "proyecto": "Coastline F2"
+  },
+  "57477": {
+    "nombre": "Forte de Âncora/Campo do Castelo",
+    "proyecto": "Coastline F2"
+  },
+  "57524": {
+    "nombre": "Figueira Brava",
+    "proyecto": "Coastline F2"
+  },
+  "57549": {
+    "nombre": "Lavadores",
+    "proyecto": "Coastline F2"
+  },
+  "57556": {
+    "nombre": "Nossa Senhora dos Remédios",
+    "proyecto": "Coastline F2"
+  },
+  "57731": {
+    "nombre": "Lumiar",
+    "proyecto": "Coastline F2"
+  },
+  "57995": {
+    "nombre": "Praia de Odeceixe",
+    "proyecto": "Coastline F2"
+  },
+  "58110": {
+    "nombre": "Praia da Oliveirinha",
+    "proyecto": "Coastline F2"
+  },
+  "58332": {
+    "nombre": "Paredes de Vitória",
+    "proyecto": "Coastline F2"
+  },
+  "58718": {
+    "nombre": "Pedra da Atalaia",
+    "proyecto": "Coastline F2"
+  },
+  "59064": {
+    "nombre": "Brejo Largo",
+    "proyecto": "Coastline F2"
+  }
+}
