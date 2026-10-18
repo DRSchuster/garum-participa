@@ -1,0 +1,24 @@
+name: Mantener Supabase activo
+
+on:
+  schedule:
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  leer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Una lectura de la base
+        env:
+          CLAVE: ${{ secrets.GARUM_SUPABASE_PUBLISHABLE_KEY }}
+        run: |
+          test -n "$CLAVE"
+          case "$CLAVE" in
+            sb_secret_*) echo "La clave de servicio no se usa aquí." >&2; exit 1 ;;
+          esac
+          codigo=$(curl -s -o /tmp/lectura -w "%{http_code}" \
+            -H "apikey: $CLAVE" \
+            -H "Authorization: Bearer $CLAVE" \
+            "https://pepggmiwhbnxydbztoob.supabase.co/rest/v1/contribuicoes?select=id&limit=1")
+          test "$codigo" = "200"

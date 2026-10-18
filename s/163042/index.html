@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GARUM</title>
+  <script>
+    /* Cada sitio es la carpeta s/<ID>/. Los estilos y los datos salen de la raíz. */
+    (function () {
+      var partes = location.pathname.split("/");
+      var i = partes.indexOf("s");
+      var base = (i >= 0 ? partes.slice(0, i) : partes.slice(0, -1)).join("/");
+      if (!base.endsWith("/")) base += "/";
+      var el = document.createElement("base");
+      el.href = location.origin + base;
+      document.head.appendChild(el);
+    })();
+  </script>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <main>
+    <p class="marca">Be Selkie · GARUM</p>
+    <p class="aviso" id="aviso"></p>
+    <h1 id="nombre">GARUM</h1>
+    <p class="proyecto" id="proyecto"></p>
+    <div class="idiomas">
+      <button type="button" data-lang="pt">PT</button>
+      <button type="button" data-lang="en">EN</button>
+      <button type="button" data-lang="es">ES</button>
+    </div>
+    <p id="instrucciones"></p>
+    <h2 id="tit-seg"></h2>
+    <p id="seguridad"></p>
+    <p id="enviar"></p>
+    <form id="formulario" action="#" onsubmit="return false;">
+      <input id="foto" type="file" accept="image/jpeg,image/png,image/heic,image/heif,image/webp">
+      <label class="archivo" id="elegir" for="foto"></label>
+      <label id="etiqueta-nota" for="nota"></label>
+      <textarea id="nota" maxlength="500" rows="3"></textarea>
+      <h2> </h2>
+      <p id="licencia"></p>
+      <p id="rgpd"></p>
+      <label class="casilla">
+        <input id="casilla" type="checkbox">
+        <span id="casilla-texto"></span>
+      </label>
+      <button id="mandar" type="button"></button>
+    </form>
+    <p id="estado"></p>
+  </main>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
